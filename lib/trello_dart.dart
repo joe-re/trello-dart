@@ -1,3 +1,3 @@
 library TrelloDart;
-export 'src/client';
+export 'src/client.dart';
 
